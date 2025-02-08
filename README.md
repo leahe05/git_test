@@ -1,1 +1,1 @@
-"Hello Odin!"
+i hate maths
